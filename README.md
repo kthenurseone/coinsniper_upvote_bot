@@ -25,6 +25,8 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 - Auto log in. ✓
 - Auto captcha solving. ✓
 - Auto upvoting. ✓
+- Multi threading. ✓
+
 
 
 ## Installation
